@@ -1,7 +1,12 @@
-# Most Common Protocols :
+# Most Common connection Protocols :
 - **HTTP** _ for web serves and communications
 - **HTTPS** _ for more secure web serves and communications
 - **FTP** _ for files transfer
 - **SFTP** _ for more secure  files transfer
 - **DNS** _ for transfer IP address to a domain
 - **DHCP** _ for automatically assign IP addresses to devices
+- **SSH** _ for secure communications between devices
+- **SNMP** _ for managing and monitor the devices in the network
+- **NTP** _ for time synchronization in network devices
+- **ICMP** _ for check for Ping and connection
+- **ARP** _ for link the IP address with the MAC address
